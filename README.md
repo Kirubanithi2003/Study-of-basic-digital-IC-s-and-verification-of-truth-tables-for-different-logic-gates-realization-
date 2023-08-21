@@ -65,7 +65,7 @@ Developed by:kirubanithi C
 RegisterNumber: 212222050031
 
 ```
-module bm(a,b,y1,y2,y3,y4,y5,y6,y7);
+module gates(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
 
